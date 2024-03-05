@@ -48,7 +48,6 @@ const Home = () => {
             <div className="hero-single-slider-item swiper-slide">
               {/* <!-- Hero Slider Image --> */}
               <div className="hero-slider-bg">
-                <h1>Prathmesh</h1>
                 <img
                   src="assets/images/hero-slider/home-1/hero-slider-2.jpg"
                   alt=""
