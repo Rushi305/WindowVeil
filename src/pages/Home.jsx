@@ -32,7 +32,7 @@ const Home = () => {
                           to make your house <br /> Asthetic
                         </h2>
                         <Link
-                          to="product-details-default.html"
+                          to="/products"
                           className="btn btn-lg btn-outline-golden"
                         >
                           shop now 
@@ -65,7 +65,7 @@ const Home = () => {
                           Design Award
                         </h2>
                         <Link
-                          to="product-details-default.html"
+                          to="/products"
                           className="btn btn-lg btn-outline-golden"
                         >
                           shop now
@@ -360,7 +360,12 @@ const Home = () => {
                     {/* <!-- Additional required wrapper --> */}
                     <div className="swiper-wrapper">
                       {/* <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -437,7 +442,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -516,7 +526,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -595,7 +610,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -669,7 +689,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -743,7 +768,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -817,7 +847,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -891,7 +926,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -965,7 +1005,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -1039,7 +1084,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -1118,7 +1168,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -1192,7 +1247,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 12"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -1351,12 +1411,14 @@ const Home = () => {
                     <div className="swiper-wrapper">
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 8"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
-                          <Link
-                            to="product-details-default.html"
-                            className="image-link"
-                          >
+                          <Link to="/products" className="image-link">
                             <img
                               src="assets/images/product/default/home-1/default-9.jpg"
                               alt=""
@@ -1425,7 +1487,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 8"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -1499,7 +1566,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 8"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -1573,7 +1645,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 8"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -1647,7 +1724,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 8"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -1724,7 +1806,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 8"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -1803,7 +1890,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 8"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -1882,7 +1974,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="product-default-single-item product-color--golden swiper-slide">
+                      <div
+                        className="product-default-single-item product-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 8"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="product-details-default.html"
@@ -2106,7 +2203,12 @@ const Home = () => {
                     {/* <!-- Additional required wrapper --> */}
                     <div className="swiper-wrapper">
                       {/* <!-- Start Product Default Single Item --> */}
-                      <div className="blog-default-single-item blog-color--golden swiper-slide">
+                      <div
+                        className="blog-default-single-item blog-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 6"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="blog-single-sidebar-left.html"
@@ -2150,7 +2252,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="blog-default-single-item blog-color--golden swiper-slide">
+                      <div
+                        className="blog-default-single-item blog-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 6"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="blog-single-sidebar-left.html"
@@ -2197,7 +2304,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="blog-default-single-item blog-color--golden swiper-slide">
+                      <div
+                        className="blog-default-single-item blog-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 6"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="blog-single-sidebar-left.html"
@@ -2241,7 +2353,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="blog-default-single-item blog-color--golden swiper-slide">
+                      <div
+                        className="blog-default-single-item blog-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 6"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="blog-single-sidebar-left.html"
@@ -2285,7 +2402,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="blog-default-single-item blog-color--golden swiper-slide">
+                      <div
+                        className="blog-default-single-item blog-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 6"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="blog-single-sidebar-left.html"
@@ -2327,7 +2449,12 @@ const Home = () => {
                       </div>
                       {/* <!-- End Product Default Single Item -->
                     <!-- Start Product Default Single Item --> */}
-                      <div className="blog-default-single-item blog-color--golden swiper-slide">
+                      <div
+                        className="blog-default-single-item blog-color--golden swiper-slide swiper-slide-active"
+                        role="group"
+                        aria-label="1 / 6"
+                        style={{ width: "330px", marginRight: "30px" }}
+                      >
                         <div className="image-box">
                           <Link
                             to="blog-single-sidebar-left.html"
@@ -2373,8 +2500,23 @@ const Home = () => {
                     </div>
                   </div>
                   {/* <!-- If we need navigation buttons --> */}
-                  <div className="swiper-button-prev"></div>
-                  <div className="swiper-button-next"></div>
+                  <div
+                    className="swiper-button-prev swiper-button-disabled"
+                    tabIndex="-1"
+                    role="button"
+                    aria-label="Previous slide"
+                    aria-controls="swiper-wrapper-f499cb1491bd180a"
+                    aria-disabled="true"
+                  ></div>
+
+                  <div
+                    className="swiper-button-next"
+                    tabIndex="0"
+                    role="button"
+                    aria-label="Next slide"
+                    aria-controls="swiper-wrapper-f499cb1491bd180a"
+                    aria-disabled="false"
+                  ></div>
                 </div>
               </div>
             </div>
